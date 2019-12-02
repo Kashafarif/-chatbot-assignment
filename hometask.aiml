@@ -1,0 +1,48 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+   <pattern>I go to school</pattern>
+   <template>Do I go to school?</template>
+</category>  
+ 
+<category>
+   <pattern>I live in Karachi</pattern>
+   <template>Do I live in Karachi?</template>
+</category> 
+
+<category>
+   <pattern>I work at office</pattern>
+   <template>Do I work at office?</template>
+</category>
+
+<category>
+   <pattern>I am going to school</pattern>
+   <template>I am not going to school</template>
+</category>
+
+<category>
+   <pattern>I am working at office</pattern>
+   <template>I am not working at office</template>
+</category>
+
+<category>
+   <pattern>I am living in Karachi</pattern>
+   <template>I am not living in Karachi</template>
+</category>
+
+<category>
+   <pattern>I am going to school</pattern>
+   <template>Am I going to school?</template>
+</category>
+
+<category>
+   <pattern>I am working at office</pattern>
+   <template>Am I working at office?</template>
+</category>
+
+<category>
+   <pattern>I am living in Karachi</pattern>
+   <template>Am I living in Karachi?</template>
+</category>
+
+</aiml>
